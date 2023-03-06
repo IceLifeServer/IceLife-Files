@@ -1,0 +1,93 @@
+{
+  "versions": [
+    {
+      "name": "1.19",
+      "status": 0,
+      "profiles": [
+        {
+          "name": "basic",
+          "displayName": "기본",
+          "status": 0
+        },
+        {
+          "name": "optimize",
+          "displayName": "최적화",
+          "status": 0
+        },
+        {
+          "name": "utility",
+          "displayName": "최적화/유틸리티",
+          "status": 0
+        },
+        {
+          "name": "all",
+          "displayName": "최적화/유틸리티/게임플레이",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "name": "1.19.1",
+      "status": 0,
+      "profiles": [
+        {
+          "name": "basic",
+          "displayName": "기본",
+          "status": 0
+        },
+        {
+          "name": "optimize",
+          "displayName": "최적화",
+          "status": 0
+        },
+        {
+          "name": "utility",
+          "displayName": "최적화/유틸리티",
+          "status": 0
+        },
+        {
+          "name": "all",
+          "displayName": "최적화/유틸리티/게임플레이",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "name": "1.19.2",
+      "status": 0,
+      "profiles": [
+        {
+          "name": "basic",
+          "displayName": "기본",
+          "status": 0
+        },
+        {
+          "name": "optimize",
+          "displayName": "최적화",
+          "status": 0
+        },
+        {
+          "name": "utility",
+          "displayName": "최적화/유틸리티",
+          "status": 0
+        },
+        {
+          "name": "all",
+          "displayName": "최적화/유틸리티/게임플레이",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "name": "1.19.3",
+      "status": 2,
+      "profiles": [
+        {
+          "name": "basic",
+          "displayName": "기본",
+          "status": 2
+        }
+      ]
+    }
+  ]
+}
