@@ -13,16 +13,6 @@
           "name": "optimize",
           "displayName": "최적화",
           "status": 0
-        },
-        {
-          "name": "utility",
-          "displayName": "최적화/유틸리티",
-          "status": 0
-        },
-        {
-          "name": "all",
-          "displayName": "최적화/유틸리티/게임플레이",
-          "status": 0
         }
       ]
     },
