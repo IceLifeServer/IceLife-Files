@@ -2,17 +2,27 @@
   "versions": [
     {
       "name": "1.19",
-      "status": 0,
+      "status": 1,
       "profiles": [
-        {
-          "name": "basic",
-          "displayName": "기본",
-          "status": 0
-        },
         {
           "name": "optimize",
           "displayName": "최적화",
-          "status": 0
+          "status": 1
+        },
+        {
+          "name": "utility",
+          "displayName": "유틸리티",
+          "status": 1
+        },
+        {
+          "name": "quality",
+          "displayName": "퀄리티",
+          "status": 1
+        },
+        {
+          "name": "all",
+          "displayName": "전체",
+          "status": 1
         }
       ]
     },
@@ -21,13 +31,23 @@
       "status": 0,
       "profiles": [
         {
-          "name": "basic",
-          "displayName": "기본",
+          "name": "optimize",
+          "displayName": "최적화",
           "status": 0
         },
         {
-          "name": "optimize",
-          "displayName": "최적화",
+          "name": "utility",
+          "displayName": "유틸리티",
+          "status": 0
+        },
+        {
+          "name": "quality",
+          "displayName": "퀄리티",
+          "status": 0
+        },
+        {
+          "name": "all",
+          "displayName": "전체",
           "status": 0
         }
       ]
@@ -37,13 +57,23 @@
       "status": 0,
       "profiles": [
         {
-          "name": "basic",
-          "displayName": "기본",
+          "name": "optimize",
+          "displayName": "최적화",
           "status": 0
         },
         {
-          "name": "optimize",
-          "displayName": "최적화",
+          "name": "utility",
+          "displayName": "유틸리티",
+          "status": 0
+        },
+        {
+          "name": "quality",
+          "displayName": "퀄리티",
+          "status": 0
+        },
+        {
+          "name": "all",
+          "displayName": "전체",
           "status": 0
         }
       ]
@@ -53,8 +83,23 @@
       "status": 2,
       "profiles": [
         {
-          "name": "basic",
-          "displayName": "기본",
+          "name": "optimize",
+          "displayName": "최적화",
+          "status": 2
+        },
+        {
+          "name": "utility",
+          "displayName": "유틸리티",
+          "status": 2
+        },
+        {
+          "name": "quality",
+          "displayName": "퀄리티",
+          "status": 2
+        },
+        {
+          "name": "all",
+          "displayName": "전체",
           "status": 2
         }
       ]
