@@ -62,27 +62,6 @@
           "status": 0
         }
       ]
-    },
-    {
-      "name": "1.19.3",
-      "status": 2,
-      "profiles": [
-        {
-          "name": "optimize",
-          "displayName": "최적화",
-          "status": 2
-        },
-        {
-          "name": "utility",
-          "displayName": "유틸리티",
-          "status": 2
-        },
-        {
-          "name": "quality",
-          "displayName": "퀄리티",
-          "status": 2
-        }
-      ]
     }
   ]
 }
