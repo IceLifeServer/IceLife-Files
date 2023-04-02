@@ -1,49 +1,7 @@
 {
   "versions": [
     {
-      "name": "1.19",
-      "status": 1,
-      "profiles": [
-        {
-          "name": "optimize",
-          "displayName": "최적화",
-          "status": 1
-        },
-        {
-          "name": "utility",
-          "displayName": "유틸리티",
-          "status": 1
-        },
-        {
-          "name": "quality",
-          "displayName": "퀄리티",
-          "status": 1
-        }
-      ]
-    },
-    {
-      "name": "1.19.1",
-      "status": 0,
-      "profiles": [
-        {
-          "name": "optimize",
-          "displayName": "최적화",
-          "status": 0
-        },
-        {
-          "name": "utility",
-          "displayName": "유틸리티",
-          "status": 0
-        },
-        {
-          "name": "quality",
-          "displayName": "퀄리티",
-          "status": 0
-        }
-      ]
-    },
-    {
-      "name": "1.19.2",
+      "name": "1.19.4",
       "status": 0,
       "profiles": [
         {
