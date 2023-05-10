@@ -7,22 +7,26 @@
         {
           "name": "optimize",
           "displayName": "최적화",
-          "status": 0
+          "status": 0,
+          "default": true
         },
         {
           "name": "utility",
           "displayName": "유틸리티",
-          "status": 0
+          "status": 0,
+          "default": true
         },
         {
           "name": "quality",
           "displayName": "퀄리티",
-          "status": 0
+          "status": 0,
+          "default": true
         },
         {
           "name": "iceearth",
           "displayName": "아생서버",
-          "status": 2
+          "status": 2,
+          "default": false
         }
       ]
     },
@@ -33,17 +37,20 @@
         {
           "name": "optimize",
           "displayName": "최적화",
-          "status": 0
+          "status": 0,
+          "default": true
         },
         {
           "name": "utility",
           "displayName": "유틸리티",
-          "status": 0
+          "status": 0,
+          "default": true
         },
         {
           "name": "quality",
           "displayName": "퀄리티",
-          "status": 0
+          "status": 0,
+          "default": true
         }
       ]
     }
