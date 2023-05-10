@@ -1,11 +1,28 @@
 {
-  "modList": [
-    "ptifabric",
-    "voicechat"
-  ],
   "versions": [
     {
       "name": "1.19.4",
+      "status": 0,
+      "profiles": [
+        {
+          "name": "optimize",
+          "displayName": "최적화",
+          "status": 0
+        },
+        {
+          "name": "utility",
+          "displayName": "유틸리티",
+          "status": 0
+        },
+        {
+          "name": "quality",
+          "displayName": "퀄리티",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "name": "1.19.2",
       "status": 0,
       "profiles": [
         {
