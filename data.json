@@ -47,12 +47,6 @@
           "default": true
         },
         {
-          "name": "test",
-          "displayName": "테스트",
-          "status": 2,
-          "default": false
-        },
-        {
           "name": "quality",
           "displayName": "퀄리티",
           "status": 0,
