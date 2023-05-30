@@ -51,6 +51,12 @@
           "displayName": "퀄리티",
           "status": 0,
           "default": true
+        },
+        {
+          "name": "cinematic",
+          "displayName": "시네마틱",
+          "status": 2,
+          "default": false
         }
       ]
     }
