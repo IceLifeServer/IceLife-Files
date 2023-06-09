@@ -1,6 +1,36 @@
 {
   "versions": [
     {
+      "name": "1.20",
+      "status": 2,
+      "profiles": [
+        {
+          "name": "optimize",
+          "displayName": "최적화",
+          "status": 0,
+          "default": true
+        },
+        {
+          "name": "utility",
+          "displayName": "유틸리티",
+          "status": 0,
+          "default": true
+        },
+        {
+          "name": "quality",
+          "displayName": "퀄리티",
+          "status": 0,
+          "default": true
+        },
+        {
+          "name": "extra",
+          "displayName": "엑스트라",
+          "status": 2,
+          "default": true
+        }
+      ]
+    },
+    {
       "name": "1.19.2",
       "status": 0,
       "profiles": [
