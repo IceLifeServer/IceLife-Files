@@ -17,12 +17,6 @@
       "displayName": "퀄리티",
       "status": 0,
       "default": true
-    },
-    {
-      "name": "extra",
-      "displayName": "엑스트라",
-      "status": 2,
-      "default": false
     }
   ]
 }
